@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="FUNC_CREATE">onCreate</string>
+    <string name="FUNC_START">onStart</string>
+    <string name="FUNC_PAUSE">onPause</string>
+    <string name="FUNC_RESUME">onResume</string>
+    <string name="FUNC_STOP">onStop</string>
+    <string name="FUNC_DESTROY">onDestroy</string>
+    <string name="FUNC_SAVEINSTANCESTATE">onSaveInstanceState</string>
+    <string name="FUNC_RESTOREINSTANCESTATE">onRestoreInstanceState</string>
+    <string name="clr">CLEAR</string>
+
+</resources>
